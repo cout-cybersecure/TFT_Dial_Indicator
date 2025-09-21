@@ -1,5 +1,0 @@
-/home/technetium-addict/Downloads/tft_dial/build/CMakeFiles/tft_dial.dir
-/home/technetium-addict/Downloads/tft_dial/build/CMakeFiles/edit_cache.dir
-/home/technetium-addict/Downloads/tft_dial/build/CMakeFiles/rebuild_cache.dir
-/home/technetium-addict/Downloads/tft_dial/build/CMakeFiles/tft_dial_autogen_timestamp_deps.dir
-/home/technetium-addict/Downloads/tft_dial/build/CMakeFiles/tft_dial_autogen.dir
